@@ -132,7 +132,7 @@ const Benefits = ({ setSelectedPage}: Props) => {
                          hidden: {opacity:0, x: 50},
                          visible: {opacity:1 , x:0},
                         }}
-             >
+                        >
                         <p className="my-5 ">
                             As Evogym, we are getting many positive responses due to the excellent work we do as a team. Our clients are able to achieve their goals
                             because of the effort they put in with the help of our professional trainers.
